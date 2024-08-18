@@ -1,2 +1,2 @@
 # HTML_and_CSS_Template_1
-the frist project of HTML and CSS
+the frist template of HTML and CSS
