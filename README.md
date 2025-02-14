@@ -1,27 +1,20 @@
-# Leon - Minimal Agency Template
-Leon is a clean, modern, and responsive website template for creative agencies. Built with HTML and CSS, it’s perfect for showcasing your work in a simple and elegant way.
+# Leon - Minimal & Creative Agency Template
+Leon is a clean, modern, and responsive HTML and CSS template designed for creative agencies. With a minimalist design and smooth user experience, it’s perfect for showcasing your work in a professional and elegant way.
+## Key Features
+Responsive Design: Optimized for desktops, tablets, and mobile devices.
 
-## Features
-Minimal Design: Clean and modern layout.
+Easy Customization: Well-structured HTML and CSS for quick modifications.
 
-Fully Responsive: Works on all devices.
+Modern Design: Minimal layout with smooth animations and hover effects.
 
-Customizable: Easy-to-edit CSS variables.
+Cross-Browser Compatibility: Works seamlessly across all major browsers.
 
-Smooth Scrolling: Enhanced user experience.
+## Sections Included
+Header: Logo and navigation menu.
 
-Font Awesome Icons: Professional icons included.
+Landing: Full-screen intro with a welcoming message.
 
-Google Fonts: Uses "Work Sans" for modern typography.
-
-Multiple Sections: Services, Portfolio, About, and Contact.
-
-Sections
-Header: Logo and navigation.
-
-Landing: Full-screen intro with a welcome message.
-
-Features: Key features in a 3-column layout.
+Features: Three-column layout for key services.
 
 Services: Detailed service descriptions with icons.
 
@@ -31,16 +24,7 @@ About: Agency description with an image.
 
 Contact: Email and social media links.
 
-Footer: Simple copyright section.
-
-## How to Use
-Clone or download the repo.
-
-Open **index.html** to view the template.
-
-Customize **first.css** for colors and styles.
-
-Replace placeholder content with your own.
+Footer: Simple and clean copyright section.
 
 ## Live Demo
 
